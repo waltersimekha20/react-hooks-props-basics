@@ -1,5 +1,5 @@
 import React from "react";
-import BlogPost from "./BlogPost";
+import BlgPost from "./BlogPost";
 
 function App() {
   return <BlogPost />;
